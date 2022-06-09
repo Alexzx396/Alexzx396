@@ -2,24 +2,24 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/alex-arce-suarez-63477bb8" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/ale_mano5/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Alex Arce, agricultural engineer & full stack developer
   <br>
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I graduated from the school of natural resources, Santiago/Chile. Santo Tomas University (UST).
   <br>
-  💻 I love writing code and learn anythings about it
+  💻  I love writing code, scientific research and everything related to technology.
   <br>
-  🔬 I’m currently working on Django
+  🔬 I am currently looking for a job as a Remote Developer
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚  I am currently studying the Coding Dojo(Latam) - Python bootcam. also the Bootcam in Coder Houser (Argentina)Full stack developer MERN
   <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me about <a href="https://github.com/Alexzx396/Alexzx396" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">arcealex257@gmail.com</a>
+  📫 How to reach me: <a href="mailto: arcealex257@gmail.com">arcealex257@gmail.com</a>
 </p>
 
 <hr>
