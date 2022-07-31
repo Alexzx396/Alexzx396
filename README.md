@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alex Arce, agricultural engineer & full stack developer
+  Hi, I'm Alex Arce, agricultural engineer , full stack developer MERN and Python & Data Science
   <br>
   <br>
   🎓 I graduated from the school of natural resources, Santiago/Chile. Santo Tomas University (UST).
@@ -15,7 +15,7 @@
   <br>
   🔬 I am currently looking for a job as a Remote Developer
   <br>
-  📚  I am currently studying the Coding Dojo(Latam) - Python bootcam. also the Bootcam in Coder Houser (Argentina)Full stack developer MERN
+  📚  I am currently studying the Coding Dojo(Latam) - Python bootcam. also the Bootcam in Coder Houser (Argentina) Data Science
   <br>
   💬 Ask me about <a href="https://github.com/Alexzx396/Alexzx396" title="Issues">Here</a>
   <br>
