@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alex Arce,  Agricultural engineer, Full stack developer (MERN and Python) & Data Science 
+  Hi, I'm Alex Arce,  Agricultural engineer, Full stack developer (MERN and Python) & Data Science (c)
   <br>
   <br>
   🎓 I graduated from the school of natural resources, Santiago/Chile. Santo Tomas University (UST).
