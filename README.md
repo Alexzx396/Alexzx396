@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/alex-arce-suarez-63477bb8" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/ale_mano5/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
+<h5 align="center">
+  <code><a href="https://alexzx396.github.io/" title="Web Portafolio"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/web.svg">Pagina Web</a></code>
+</h5>
 <br>
 <p align="center">
   Hi, I'm Alex Arce,  Agricultural engineer, Full stack developer (MERN and Python) & Data Science (c)
