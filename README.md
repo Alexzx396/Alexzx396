@@ -5,7 +5,7 @@
   <code><a href="https://www.instagram.com/ale_mano5/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <h5 align="center">
-  <code><a href="https://alexzx396.github.io/" title="Web Portafolio"><img width="45">Pagina Web</a></code>
+  <code><a href="https://alexzx396.github.io/" title="Web Portafolio"><img width="45">Portafolio Personal</a></code>
 </h5>
 <br>
 <p align="center">
