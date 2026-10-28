@@ -69,7 +69,6 @@ Software Engineer from **Santiago, Chile 🇨🇱**, building digital products, 
 
 **Automation & Platforms**
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![Monday](https://img.shields.io/badge/Monday.com-FF3D57?style=flat-square&logo=mondaydotcom&logoColor=white)
 ![Thinkific](https://img.shields.io/badge/Thinkific_(Liquid)-1A1A1A?style=flat-square&logo=shopify&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -87,6 +86,6 @@ Software Engineer from **Santiago, Chile 🇨🇱**, building digital products, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexzx396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexzx396&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://stats.alexarce.dev/api?username=Alexzx396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://stats.alexarce.dev/api/top-langs/?username=Alexzx396&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
