@@ -85,11 +85,9 @@ Software Engineer from **Santiago, Chile 🇨🇱**, building digital products, 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Alexzx396/Escaleno">
-    <img src="https://github-readme-stats-q8q6.vercel.app/api/pin/?username=Alexzx396&repo=Escaleno&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Alexzx396/sinplag">
-    <img src="https://github-readme-stats-q8q6.vercel.app/api/pin/?username=Alexzx396&repo=sinplag&theme=tokyonight&hide_border=true" />
-  </a>
+  <img height="165" src="https://github-readme-stats-q8q6.vercel.app/api?username=Alexzx396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-q8q6.vercel.app/api/top-langs/?username=Alexzx396&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
