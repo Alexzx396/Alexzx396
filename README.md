@@ -85,8 +85,6 @@ Software Engineer from **Santiago, Chile 🇨🇱**, building digital products, 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-q8q6.vercel.app/api?username=Alexzx396&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats-q8q6.vercel.app/api/top-langs/?username=Alexzx396&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
